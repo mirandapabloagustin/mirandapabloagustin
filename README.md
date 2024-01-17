@@ -1,21 +1,39 @@
 <!--- trophy (start) -->
-<p>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> ¡Hi <𝚍𝚎𝚟𝚜/>! </h1>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<h1 align="start"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/></h1>
-<h3 align="start">A passionate Software Developer  from Argentina <img src="https://icons.iconarchive.com/icons/wikipedia/flags/256/AR-Argentina-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
-<h1 align = "left">👨🏻‍💻 Skills Showcase</h1>
+<h2 align = "left">🌟 About me</h2>
+    <p> I'm Agustin, a freelance Full Stack Developer and I live in Argentina.<img src="https://icons.iconarchive.com/icons/wikipedia/flags/256/AR-Argentina-Flag-icon.png" width="25 style="vertical-align: bottom"/>
+      <ul>
+        <li> 🌱 I hold a degree in Programming Technology.</li>
+        <li> 🛠️ Currently, I'm dedicated to backend development as a freelancer, where I enjoy tackling challenges and building efficient solutions.</li>
+        <li> 🔧 I'm familiar with various technologies, including: </li>
+            <p>        - 🔸 JavaScript, TypeScript</p>
+            <p>        - 🔸 Node.js, Nest.js</p>
+            <p>        - 🔸 MySQL </p>
+            <p>        - 🔸 Docker </p>
+            <p>        - 🔸 Postman </p>
+        <li> ❤️ I've discovered an unconditional love for microservices and am constantly exploring new ways to implement efficient and scalable solutions. </li>
+        <li> 🌐 I consider myself an explorer, always seeking new challenges that test my skills and allow me to continue growing professionally.</li>
+        <li> 👀 I'm currently open to new job opportunities. You can check out my: <a href="https://docs.google.com/document/d/1UJxm4HXm0TcwyQaRcAJPBTLyieVPBPMviVjM3TswkWU/edit?usp=sharing" target="_blank">HERE</li>
+      </ul>
+    </p>
+              
+    
 
+
+  
 <!--tech stack icons-->
-<h3>☕️Languages<h3>
+<h2 align = "left">🚀👩‍💻 Tech Stack Showcase</h2>
+<h3>💻 Languages<h3>
 <img src="https://skillicons.dev/icons?i=c,css,html,java,js,py,ts,&perline=14" />
-<h3>⚛️ Frameworks <h3>
+<h3>🛠️ Frameworks <h3>
   <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,angular,&perline=14" />
-<h3>📔 Software <h3>
-  <img src="https://skillicons.dev/icons?i=git,discord,github,postman,vscode,idea&perline=14" />
-<h3> 🖥️ Database<h3>
+<h3>⚙️ Software <h3>
+  <img src="https://skillicons.dev/icons?i=git,discord,github,postman,vscode,idea,eclipse,&perline=14" />
+<h3>🗃️ Database<h3>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker&perline=14" />
 
 <!-- Connect with me -->
