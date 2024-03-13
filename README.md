@@ -17,7 +17,7 @@
             <p>        - 🔸 Postman </p>
         <li> ❤️ I've discovered an unconditional love for microservices and, I'm constantly exploring new ways to implement efficient and scalable solutions. </li>
         <li> 🌐 I consider myself an explorer, always seeking new challenges that test my skills and allow me to continue growing professionally.</li>
-        <li> 👀 I'm currently open to new job opportunities. You can check out my CV: <a href="https://drive.google.com/file/d/1FMJ4g7SUP5x1xUNqUXnXdC_Wf5uxbd1m/view?usp=sharing" target="_blank">HERE</li>
+        <li> 👀 I'm currently open to new job opportunities. You can check out my CV: <a href="https://docs.google.com/document/d/1HNVINCvM1SP3BbL5QuDGJHYN1BghXg1UmOGWqrdUNyg/edit?usp=sharing" target="_blank">HERE</li>
       </ul>
     </p>
               
