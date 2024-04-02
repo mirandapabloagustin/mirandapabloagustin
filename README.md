@@ -39,7 +39,7 @@
 <!--tech stack icons-->
 <h2 align = "left">🚀👩‍💻 Tech Stack Showcase</h2>
 <h3>💻 Languages<h3>
-<img src="https://skillicons.dev/icons?i=c,css,html,java,js,py,ts,&perline=14" />
+<img src="https://skillicons.dev/icons?i=c,css,html,java,js,py,ts,go,&perline=14" />
 <h3>🛠️ Frameworks <h3>
   <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,angular,&perline=14" />
 <h3>⚙️ Software <h3>
