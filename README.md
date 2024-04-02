@@ -10,14 +10,25 @@
         <li> 🌱 I hold a degree in Programming Technology.</li>
         <li> 🛠️ Currently, I'm dedicated to backend development as a freelancer, where I enjoy tackling challenges and building efficient solutions.</li>
         <li> 🔧 I'm familiar with various technologies, including: </li>
-            <p>        - 🔸 JavaScript, TypeScript</p>
-            <p>        - 🔸 Node.js, Nest.js</p>
+            <p>        - 🔸 C</p>
+            <p>        - 🔸 Java</p>
+            <p>        - 🔸 JavaScript</p>
+            <p>        - 🔸 TypeScript</p>
+            <p>        - 🔸 Angular</p>
+            <p>        - 🔸 Node.js</p>
+            <p>        - 🔸 Nest.js</p>
+            <p>        - 🔸 Go </p>
+            <p>        - 🔸 Fiber Framework</p>
+            <p>        - 🔸 HTML </p>
+            <p>        - 🔸 CSS </p>
             <p>        - 🔸 MySQL </p>
+            <p>        - 🔸 MongoDB </p>
             <p>        - 🔸 Docker </p>
+            <p>        - 🔸 Rabbit </p>
             <p>        - 🔸 Postman </p>
         <li> ❤️ I've discovered an unconditional love for microservices and, I'm constantly exploring new ways to implement efficient and scalable solutions. </li>
         <li> 🌐 I consider myself an explorer, always seeking new challenges that test my skills and allow me to continue growing professionally.</li>
-        <li> 👀 I'm currently open to new job opportunities. You can check out my CV: <a href="https://drive.google.com/file/d/11AaRTtoNuGs-ukkstqIA2M2AY3mIx-Rf/view?usp=drive_link" target="_blank">HERE</li>
+        <li> 👀 I'm currently open to new job opportunities. You can check out my CV: <a href="https://drive.google.com/file/d/1FDqZRz7q8TuqL5ESfHVgP4wiJ6-F9EI1/view?usp=sharing" target="_blank">HERE</li>
       </ul>
     </p>
               
