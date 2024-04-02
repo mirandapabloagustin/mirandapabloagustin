@@ -43,7 +43,7 @@
 <h3>🛠️ Frameworks <h3>
   <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,angular,fiber,&perline=14" />
 <h3>⚙️ Software <h3>
-  <img src="https://skillicons.dev/icons?i=git,discord,github,postman,vscode,idea,eclipse,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,discord,github,postman,vscode,idea,eclipse,rabbitmq,&perline=14" />
 <h3>🗃️ Database<h3>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker&perline=14" />
 
