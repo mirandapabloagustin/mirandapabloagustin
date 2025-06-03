@@ -7,7 +7,6 @@
         <li> 🛠️ Currently, I'm dedicated to backend development as a freelancer, where I enjoy tackling challenges and building efficient solutions.</li>
         <li> ❤️ I've discovered an unconditional love for microservices and, I'm constantly exploring new ways to implement efficient and scalable solutions. </li>
         <li> 🌐 I consider myself an explorer, always seeking new challenges that test my skills and allow me to continue growing professionally.</li>
-        <li> 👀 I'm currently open to new job opportunities. You can check out my CV: <a href="https://drive.google.com/file/d/1FDqZRz7q8TuqL5ESfHVgP4wiJ6-F9EI1/view?usp=sharing" target="_blank">HERE</li>
       </ul>
     </p>
   
