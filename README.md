@@ -1,9 +1,5 @@
 <!--- trophy (start) -->
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> ¡Hi <𝚍𝚎𝚟𝚜/>! </h1>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <h2 align = "left">🌟 About me</h2>
     <p> I'm Agustin, a freelance Full Stack Developer and I live in Argentina.<img src="https://icons.iconarchive.com/icons/wikipedia/flags/256/AR-Argentina-Flag-icon.png" width="25 style="vertical-align: bottom"/>
       <ul>
@@ -38,7 +34,7 @@
 <div align="center">
 <p>
 <a href="https://github.com/mirandapabloagustin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/mirandagustin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/pablo-agustin-miranda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.instagram.com/papas_c0n_cheddar/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
 </div>
